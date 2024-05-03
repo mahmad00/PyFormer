@@ -1,7 +1,15 @@
 # Pyramid Hierarchical Transformer for Hyperspectral Image Classification
 
-## This demo is associated with: [Pyramid Hierarchical Transformer for Hyperspectral Image Classification]() Submitted for possible publication. The paper is also accessible on ArXiv via the following link: "https://arxiv.org/abs/2404.14945".
+## This demo is associated with: [Pyramid Hierarchical Transformer for Hyperspectral Image Classification](https://arxiv.org/abs/2404.14945) Submitted for possible publication. The paper is accessible on ArXiv via the following link: "https://arxiv.org/abs/2404.14945".
 
+@misc{ahmad2024pyramid,
+      title={Pyramid Hierarchical Transformer for Hyperspectral Image Classification}, 
+      author={Muhammad Ahmad and Muhammad Hassaan Farooq Butt and Manuel Mazzara and Salvatore Distifano},
+      year={2024},
+      eprint={2404.14945},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 # Hyperspectral datasets
 
