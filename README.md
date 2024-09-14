@@ -1,6 +1,6 @@
 # Pyramid Hierarchical Transformer for Hyperspectral Image Classification
 
-## This demo is associated with: [Pyramid Hierarchical Transformer for Hyperspectral Image Classification](https://arxiv.org/abs/2404.14945) Submitted for possible publication. The paper is accessible on ArXiv via the following link: "https://arxiv.org/abs/2404.14945".
+## This demo is associated with: [Pyramid Hierarchical Transformer for Hyperspectral Image Classification](https://arxiv.org/abs/2404.14945) Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing for publication. The paper is accessible on ArXiv via the following link: "https://arxiv.org/abs/2404.14945".
 
 
 ![PyTrans](https://github.com/user-attachments/assets/7980ce17-c3a2-4bfc-b3c7-88ea7b1880ef)
