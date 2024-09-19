@@ -1,4 +1,4 @@
-# Pyramid Hierarchical Transformer for Hyperspectral Image Classification
+# [IEEE JSTARS 2024] Pyramid Hierarchical Spatial-Spectral Transformer for Hyperspectral Image Classification
 
 ## This demo is associated with [Pyramid Hierarchical Spatial-Spectral Transformer for Hyperspectral Image Classification]([https://arxiv.org/abs/2404.14945](https://ieeexplore.ieee.org/document/10681622)) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing for publication.
 
