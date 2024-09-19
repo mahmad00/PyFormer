@@ -1,19 +1,21 @@
 # Pyramid Hierarchical Transformer for Hyperspectral Image Classification
 
-## This demo is associated with: [Pyramid Hierarchical Transformer for Hyperspectral Image Classification](https://arxiv.org/abs/2404.14945) Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing for publication. The paper is accessible on ArXiv via the following link: "https://arxiv.org/abs/2404.14945".
+## This demo is associated with [Pyramid Hierarchical Spatial-Spectral Transformer for Hyperspectral Image Classification]([https://arxiv.org/abs/2404.14945](https://ieeexplore.ieee.org/document/10681622)) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing for publication.
 
 
 ![PyTrans](https://github.com/user-attachments/assets/7980ce17-c3a2-4bfc-b3c7-88ea7b1880ef)
 
 
-@misc{ahmad2024pyramid,
-      title={Pyramid Hierarchical Transformer for Hyperspectral Image Classification}, 
-      author={Muhammad Ahmad and Muhammad Hassaan Farooq Butt and Manuel Mazzara and Salvatore Distifano},
-      year={2024},
-      eprint={2404.14945},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@ARTICLE{10681622,
+  author={Ahmad, Muhammad and Butt, Muhammad Hassaan Farooq and Mazzara, Manuel and Distefano, Salvatore and Khan, Adil Mehmood and Altuwaijri, Hamad Ahmed},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Pyramid Hierarchical Spatial-Spectral Transformer for Hyperspectral Image Classification}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Transformers;Feature extraction;Convolution;Semantics;Computational modeling;Training;Data mining;Pyramid network, spatial - spectral transformer (SST);hyperspectral image classification (HSIC)},
+  doi={10.1109/JSTARS.2024.3461851}}
 
 # Hyperspectral datasets
 
