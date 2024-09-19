@@ -14,7 +14,6 @@
   volume={},
   number={},
   pages={1-10},
-  keywords={Transformers;Feature extraction;Convolution;Semantics;Computational modeling;Training;Data mining;Pyramid network, spatial - spectral transformer (SST);hyperspectral image classification (HSIC)},
   doi={10.1109/JSTARS.2024.3461851}}
 
 # Hyperspectral datasets
