@@ -1,6 +1,6 @@
 # [IEEE JSTARS 2024] Pyramid Hierarchical Spatial-Spectral Transformer for Hyperspectral Image Classification
 
-## This demo is associated with [Pyramid Hierarchical Spatial-Spectral Transformer for Hyperspectral Image Classification]([https://arxiv.org/abs/2404.14945](https://ieeexplore.ieee.org/document/10681622)) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing for publication.
+## This demo is associated with [Pyramid Hierarchical Spatial-Spectral Transformer for Hyperspectral Image Classification]([https://ieeexplore.ieee.org/document/10681622](https://ieeexplore.ieee.org/document/10681622)) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing for publication.
 
 
 ![PyTrans](https://github.com/user-attachments/assets/7980ce17-c3a2-4bfc-b3c7-88ea7b1880ef)
@@ -25,7 +25,7 @@ An example dataset folder has the following structure:
 Datasets
 ├── University of Houston
 │   ├── UH.mat
-│   └── UG_gt.mat
+│   └── UH_gt.mat
 ├── Pavia University
 │   ├── PU.mat
 │   └── PU_gt.mat
