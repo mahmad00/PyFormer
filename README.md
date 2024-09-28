@@ -1,6 +1,6 @@
 # [IEEE JSTARS 2024] Pyramid Hierarchical Spatial-Spectral Transformer for Hyperspectral Image Classification
 
-## This demo is associated with [Pyramid Hierarchical Spatial-Spectral Transformer for Hyperspectral Image Classification]([https://ieeexplore.ieee.org/document/10681622](https://ieeexplore.ieee.org/document/10681622)) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing for publication.
+## This demo is associated with [Pyramid Hierarchical Spatial-Spectral Transformer for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10681622), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing for publication.
 
 
 ![PyTrans](https://github.com/user-attachments/assets/7980ce17-c3a2-4bfc-b3c7-88ea7b1880ef)
@@ -18,7 +18,7 @@
 
 # Hyperspectral datasets
 
-Several public hyperspectral datasets are available on the [EHU]([http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)). Users can download those beforehand. 
+Several public hyperspectral datasets are available on the [EHU](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes). Users can download those beforehand. 
 
 An example dataset folder has the following structure:
 ```
